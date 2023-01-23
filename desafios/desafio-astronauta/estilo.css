@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container{
+    min-width: 300px;
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    height: calc(100vh - 132px);
+    padding: 0 30px 30px ;
+    justify-content: center;
+}
+.container img{
+    width: 100%;
+}
+
+.container .astro{
+    max-width: 300px;
+}
+
+.fundo-espaco{
+    background-color: red;
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.fundo-espaco .fundo-espaco{
+    height: 100%;
+}
