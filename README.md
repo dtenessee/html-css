@@ -2,8 +2,5 @@
  curso html5 e css3 cursoemvideo
 
 Estou aprendendo a criar sites e agora vou gerenciar meu repositórios!
-<<<<<<< HEAD
 
-<a href="https://www.instagram.com/dtenessee/">meu instagram</a>
-=======
->>>>>>> 6770a4292bca2afba6116514d81f37c05c78eda6
+<a href="https://dtenessee.github.io/html-css/exercicios/ex001/">Executar o ex001</a>
